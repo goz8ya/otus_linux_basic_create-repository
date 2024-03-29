@@ -37,10 +37,10 @@
 
 
 ### Ссылки
-[Текст ссылки](https://htmlacademy.ru)
+[Текст ссылки](https://otus.ru)
 Картинки ставятся как ссылки, только в начале добавляется восклицательный знак.
 
-![Альт-текст](ссылка на картинку)
+![Альт-текст]([ссылка на картинку](https://github.com/goz8ya/otus_linux_basic_create-repository/blob/main/linux.png))
 
 
 
